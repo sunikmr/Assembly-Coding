@@ -1,0 +1,3 @@
+Nasm Compile : nasm -f elf filename.asm
+GCC Compile : gcc -m32 filename.o -o outputname.out
+Execute : ./outputname.out
